@@ -1,0 +1,23 @@
+```json
+{
+  "name": "make-repo",
+  "version": "1.0.0",
+  "description": "A utility to streamline repository creation and management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "repo",
+    "utility",
+    "automation",
+    "cli"
+  ],
+  "author": "AI Programmer <ai@example.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+```
